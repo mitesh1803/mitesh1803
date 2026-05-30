@@ -20,17 +20,21 @@
 ### 🛠️ Tech Stack
 
 **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+
+**Real-Time Communication**
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![mediasoup](https://img.shields.io/badge/mediasoup-SFU-blueviolet?style=flat)
 
 **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -50,16 +54,17 @@
   <img src="https://img.shields.io/badge/Kubernetes-Upcoming-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_API-Building-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
------
+
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [commit-gen](https://github.com/mitesh1803/commit-gen) | AI-powered git commit message generator using Gemini API | TypeScript, Node.js, Gemini API |
-| [shrt.ly](https://github.com/mitesh1803/shrt.ly) | URL shortener with Chrome extension | TypeScript, Node.js |
-| [Wallet-payment-api](https://github.com/mitesh1803/wallet-payment-api) | Wallet & payment REST API with transaction support | Node.js, Express, MongoDB |
-| [Todo Application](https://github.com/mitesh1803/Todo-application) | Backend REST API for a Todo app | Node.js, Express |
-| [webdev](https://github.com/mitesh1803/webdev) | HTML/CSS/JS fundamentals practice | HTML, CSS, JS |
+| Project                                                                | Description                                                                                                                             | Stack                                                            |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [EchoRTC](https://github.com/mitesh1803/echoRtc)                       | Real-time WebRTC video conferencing app with screen sharing, chat, Dockerized deployment, and scalable SFU architecture using mediasoup | React, TypeScript, Node.js, WebRTC, Socket.IO, mediasoup, Docker |
+| [commit-gen](https://github.com/mitesh1803/commit-gen)                 | AI-powered git commit message generator using Gemini API                                                                                | TypeScript, Node.js, Gemini API                                  |
+| [shrt.ly](https://github.com/mitesh1803/shrt.ly)                       | URL shortener with Chrome extension                                                                                                     | TypeScript, Node.js                                              |
+| [Wallet-payment-api](https://github.com/mitesh1803/wallet-payment-api) | Wallet & payment REST API with transaction support                                                                                      | Node.js, Express, MongoDB                                        |
+| [Todo Application](https://github.com/mitesh1803/Todo-application)     | Backend REST API for a Todo app                                                                                                         | Node.js, Express                                                 |
+| [webdev](https://github.com/mitesh1803/webdev)                         | HTML/CSS/JS fundamentals practice                                                                                                       | HTML, CSS, JS                                                    |
 ---
 
 ### 📊 GitHub Stats
