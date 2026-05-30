@@ -10,7 +10,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Final Year IT Student at Government College of Engineering, Amravati
-- 🚀 Currently building **GradeIQ** — an AI-powered student grade prediction app
 - 📚 Following the **100xDevs Full-Stack Cohort** (React, Node, Postgres, DevOps)
 - 🎯 Goal: Job-ready as a Full-Stack + DevOps Engineer by **July 2026*
 - 💡 Interested in: AI tools, DevOps dashboards, and scalable web apps
@@ -21,6 +20,7 @@
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -49,10 +49,9 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Upcoming-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-Building-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Integrations-Exploring-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### 🚀 Featured Projects
